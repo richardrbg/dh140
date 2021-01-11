@@ -1,6 +1,6 @@
 # dh140
 
-## Richard Garcia
+### Richard Garcia
 
 
 My name is Richard Garcia. I am a fourth year statistics major interested in learning python and its applications. I have experience in R statistcal programming, machine learning, and market research. 
