@@ -9,3 +9,7 @@ This repository is to display my projects and work done for **DH 140**. It is my
 
 
 **DH 140** considers how to apply coding to research in humanities and social sciences, and project-based learning. Students discover how to manage and display data with added impact. Content and goals are guided by freedom to research more effectively and freedom of speech.
+
+
+
+# up206a
