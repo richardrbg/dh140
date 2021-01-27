@@ -3,7 +3,7 @@
 ### Richard Garcia
 
 
-My name is Richard Garcia. I am a fourth year statistics major interested in learning python and its applications. I have experience in R statistcal programming, machine learning, and market research. 
+My name is Richard Garcia. I am a fourth year statistics major interested in learning python and its applications. I have experience in R statistical programming, machine learning, and market research. 
 
 This repository is to display my projects and work done for **DH 140**. It is my first time using Github seriously!
 
